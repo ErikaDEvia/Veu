@@ -1,3 +1,8 @@
+<script setup lang="ts">
+import RestablecerContrasena from '../components/FormularioRestablecerContrasena.vue'
+</script>
+
+
 <template>
   <div class="Welcome">
     <h1>Welcome to page</h1>

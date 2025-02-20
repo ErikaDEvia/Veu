@@ -1,3 +1,7 @@
+<script setup lang="ts">
+import Registro from '../components/FormularioRegistro.vue'
+</script>
+
 <template>
   <div class="about">
     <h1>This is an about page</h1>
@@ -13,3 +17,5 @@
   }
 }
 </style>
+
+<!-- importo el componente -->
